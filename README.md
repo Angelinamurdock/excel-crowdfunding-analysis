@@ -1,6 +1,6 @@
 # Crowdfunding Campaign Success Analysis
 **Creator**: Angelina Murdock  
-**Date**: December 2025
+**Date**: December 2024
 
 ## Overview
 This project explores a dataset of 1,000 crowdfunding campaigns to identify key factors that influence a project's success. Using **Microsoft Excel**, the analysis focuses on cleaning and organizing data, performing trend analysis, and building interactive visualizations. The goal is to help campaign creators understand what contributes to a successful campaign by examining variables such as funding goals, campaign duration, category, and number of backers.
