@@ -52,7 +52,7 @@ This project explores a dataset of 1,000 crowdfunding campaigns to identify key 
 - **Uneven sample sizes**: Some categories are overrepresented, so generalizing results across all categories should be done cautiously.
 
 ### Charts
-![Funding Outcomes by Category](Graphs/funding_outcomes_category.png)
+![Funding Outcomes by Category](Graphs/Funding_outcomes_category.png)
 
 ![Funding Outcomes by Sub-Category](Graphs/funding_outcomes_sub-category.png)
 
